@@ -1,2 +1,3 @@
 # how-i-learn-js
-Simple-Page
+
+В этом пробном проекте были использованы HTML, CSS, JavaScript, Bootstrap, FontAwesome.
